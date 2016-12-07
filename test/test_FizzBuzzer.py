@@ -7,6 +7,7 @@ from FizzBuzzer import FBGo
     (-1, "-1"),
     (3, "Fizz"),
     (5, "Buzz"),
+    (10, "Buzz"),
     (15, "FizzBuzz"),
     (21, "Fizz"),
     (30, "FizzBuzz"),
